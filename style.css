@@ -1,0 +1,14 @@
+.chips button{
+  height: 100px;
+  width: 100px;
+  border: 5px solid black;
+  border-radius: 50%;
+  margin: 5px;
+  background-color: grey;
+}
+.top{
+  margin: 0px;
+}
+.tt{
+  margin: 10px;
+}
